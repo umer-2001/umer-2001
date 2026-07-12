@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer</h1>
-<h3 align="center">A Passion Driven Full Stack developer</h3>
+<h3 align="center">A Passion Driven Full Stack AI Engineer 🤖</h3>
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I build intelligent systems that think, act, and automate 🌐 — designing AI agents, orchestrating LLM-powered workflows, and shipping end-to-end applications that turn cutting-edge AI into real-world impact 🛠️. I love exploring the frontier of Agentic AI 💻 and leveraging it to build cool stuffs.</p>
 
 <p align="center">
 
@@ -16,38 +16,33 @@
 </p>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: nowrap; width: 100%;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-<br />
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: nowrap; width: 100%;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,aws,fastapi,mongodb,githubactions" />
+</p>
 
 
  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **Ai**
+- 🤖 I’m currently building **AI Agents, Agentic Workflows & Autonomous Systems**
+
+- 🧠 I specialize in **LLMs, RAG, AI Automation and Intelligent Systems**
 
 - 👨‍💻 Explore my projects—all available at my <a href="https://umer2k1.com/" target="_blank">Portfolio</a>
 
-- 💬 Ask me about **React, Next, NodeJS, Nest and React Native**
+- 💬 Ask me about **AI Agents, LLMs, LangChain, RAG, and Full Stack AI (Next, NodeJS, Nest)**
 
 - 📫 How to reach me **mumer.2k1@gmail.com**
 
-- ⚡ Fun fact **Code whisperer**
+- ⚡ Fun fact **I teach machines to think, then let them do the work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,6 +52,18 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+
+- AI / Agentic
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 
 - Frontend
 <p align="left">
